@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Whittakerg
 - 👀 I’m interested in python
 - 🌱 I’m currently learning R language and power BI integrations
-- 💞️ I’m looking to collaborate on on operationalefficiencies
+- 💞️ I’m looking to collaborate on operationalefficiencies
 - 📫 How to reach me iangomo@gmail.com
 
 <!---
